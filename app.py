@@ -79,7 +79,7 @@ def process_and_classify(audio_path, model_path):
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('app.html')
 
 @app.route('/predict', methods=['POST'])
 def predict():
