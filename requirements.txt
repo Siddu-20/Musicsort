@@ -1,8 +1,3 @@
-TensorFlow
-librosa
-numpy
-matplotlib
-Pillow
-scikit-learn
 Flask
-Streamlit
+numpy
+Pillow
